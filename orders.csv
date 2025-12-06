@@ -1,0 +1,2 @@
+order_id,items,quantities,subtotal,gst,discount,delivery_charge,grand_total,payment_method,time,status,table
+ORD2512061000090D38,"tea,coffee,juice","1,6,5",400,52.0,40.0,10,422.0,Cash,2025-12-06 10:00:09,Placed,Takeaway
